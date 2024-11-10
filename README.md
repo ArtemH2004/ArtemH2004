@@ -1,7 +1,19 @@
-## Hi there 👋
-<header class="header" align="center">
-    <h1 class="header__title">Hi there, I'm Artem</h1>
+<>
+<header class="header">
+    <h1 class="header__title" align="center">Hi there, I'm Artem</h1>
 </header>
+
+<main class="main">
+    <section class="section">
+        <div class="about">
+            <div class="about__inner">
+                <h2 class="about__title" align="center">Frontend Developer from Voronezh</h2>
+            </div>
+        </div>
+    </section>
+</main>
+
+</>
 <!--
 **ArtemH2004/ArtemH2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
