@@ -18,13 +18,16 @@
     <h2 class="section__title">About me:</h2>   
     <ul class="section__about-list">
         <li class="section__about-item">
-            <p class="section__about-description">I'm a 3-rd year student at <b><i>Voronezh State University</i></b></p>
+            <p class="section__about-description">🏫 I'm a 3-rd year student at <b><i>Voronezh State University</i></b></p>
         </li>
         <li class="section__about-item">
-            <p class="section__about-description">I'm currently learned <b><i>React</i></b></p>
+            <p class="section__about-description">🏢 In April 2024, I completed an internship at <a href="https://relex.ru/ru/"><b><i>РЕЛЭКС</i></b></a></p>
         </li>
         <li class="section__about-item">
-            <p class="section__about-description">I speak <b><i>English</i></b></p>
+            <p class="section__about-description">💻 I'm currently learned <b><i>React</i></b></p>
+        </li>
+        <li class="section__about-item">
+            <p class="section__about-description">🌎 I speak <b><i>English</i></b></p>
         </li>
     </ul>
 </section>
@@ -63,6 +66,9 @@
         </a>  
         <a class="section__tools-link" href="https://redux.js.org/" target="_blank">
             <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://vite.dev/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="ViteJS" width="40" height="40" />
         </a>  
         <a class="section__tools-link" href="https://cplusplus.com/" target="_blank">
             <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
@@ -112,22 +118,3 @@
 </section>
 
 </body>
-
-
-
-
-
-<!--
-**ArtemH2004/ArtemH2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
