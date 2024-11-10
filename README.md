@@ -1,7 +1,7 @@
 <body>
 <header class="header">
     <h1 class="header__title" align="center">Hi there, I'm Artem</h1>
-    <p class="section__title" align="center"><b><i>Frontend Developer from Voronezh</i></b></p>
+    <p class="header__subtitle" align="center"><b><i>Frontend Developer from Voronezh</i></b></p>
     <div class="feedback" align="center">
         <a class="feedback__link" href="https://github.com/artemh2004" target="_blank">
             <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -96,7 +96,7 @@
 <section class="section section__statistics">
     <h2 class="section__title">Statistics:</h2> 
     <div class="section__statstics-wrapper" align="center">
-    <img align="center" alt="ArtemH2004's Github Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artemh2004&theme=github_dark" />
+    <img align="center" alt="ArtemH2004's Github Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemH2004&theme=github_dark" />
     <img align="center" alt="ArtemH2004's Github Most Commit Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=artemh2004&theme=github_dark" />
     <img align="center" alt="ArtemH2004's Github Most Repos Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artemh2004&theme=github_dark" />
     <img align="center" alt="ArtemH2004's Github Statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artemh2004&theme=github_dark" />
