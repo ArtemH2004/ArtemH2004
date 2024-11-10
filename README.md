@@ -1,11 +1,7 @@
 <body>
 <header class="header">
     <h1 class="header__title" align="center">Hi there, I'm Artem</h1>
-    </br>
-</header> 
-
-<section class="section section__inner">
-    <h2 class="section__title" align="center">Frontend Developer from Voronezh</h2>
+    <p class="section__title" align="center"><b><i>Frontend Developer from Voronezh</i></b></p>
     <div class="feedback" align="center">
         <a class="feedback__link" href="https://github.com/artemh2004" target="_blank">
             <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -14,12 +10,12 @@
             <img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
         </a>
     </div>
-</section>
+</header> 
 
 </br>
 
 <section class="section section__about">
-    <h3 class="section__title">About me:</h3>   
+    <h2 class="section__title">About me:</h2>   
     <ul class="section__about-list">
         <li class="section__about-item">
             <p class="section__about-description">I'm a 3-rd year student at <b><i>Voronezh State University</i></b></p>
@@ -36,8 +32,8 @@
 </br>
 
 <section class="section section__tools">
-    <h3 class="section__title">Languages and Tools:</h3>   
-    <div class="section__tools-wrapper" display = "flex">
+    <h2 class="section__title">Languages and Tools:</h2>   
+    <div class="section__tools-wrapper">
         <a class="section__tools-link" href="https://www.figma.com/" target="_blank">
             <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
         </a>  
@@ -92,7 +88,7 @@
 </br>
 
 <section class="section section__statistics">
-    <h3 class="section__title">Statistics:</h3> 
+    <h2 class="section__title">Statistics:</h2> 
     <div class="section__statstics-wrapper" align="center">
     <img align="center" alt="ArtemH2004's Github Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artemh2004&theme=github_dark" />
     <img align="center" alt="ArtemH2004's Github Most Commit Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=artemh2004&theme=github_dark" />
@@ -109,7 +105,7 @@
 </br>
 
 <section class="section section__trophy">
-    <h3 class="section__title">Trophies:</h3> 
+    <h2 class="section__title">Trophies:</h2> 
     <div align="center">
         <img align="center" alt="ArtemH2004's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=artemh2004&theme=onestar" />
     </div>
