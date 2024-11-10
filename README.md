@@ -1,4 +1,4 @@
-<>
+<body>
 <header class="header">
     <h1 class="header__title" align="center">Hi there, I'm Artem</h1>
 </header>
@@ -13,7 +13,7 @@
     </section>
 </main>
 
-</>
+</body>
 <!--
 **ArtemH2004/ArtemH2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
