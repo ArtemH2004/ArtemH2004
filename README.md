@@ -1,30 +1,126 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?                family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-</head>
-    
 <body>
 <header class="header">
     <h1 class="header__title" align="center">Hi there, I'm Artem</h1>
-</header>
+    </br>
+</header> 
 
-<main class="main">
-    <section class="section">
-        <div class="about">
-            <div class="about__inner">
-                <h2 class="about__title" align="center">Frontend Developer from Voronezh</h2>
-            </div>
-        </div>
-    </section>
-</main>
+<section class="section section__inner">
+    <h2 class="section__title" align="center">Frontend Developer from Voronezh</h2>
+    <div class="feedback" align="center">
+        <a class="feedback__link" href="https://github.com/artemh2004" target="_blank">
+            <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+        </a>
+        <a class="feedback__link"href="https://t.me/artemh2004" target="_blank">
+            <img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+        </a>
+    </div>
+</section>
+
+</br>
+
+<section class="section section__about">
+    <h3 class="section__title">About me:</h3>   
+    <ul class="section__about-list">
+        <li class="section__about-item">
+            <p class="section__about-description">I'm a 3-rd year student at <b><i>Voronezh State University</i></b></p>
+        </li>
+        <li class="section__about-item">
+            <p class="section__about-description">I'm currently learned <b><i>React</i></b></p>
+        </li>
+        <li class="section__about-item">
+            <p class="section__about-description">I speak <b><i>English</i></b></p>
+        </li>
+    </ul>
+</section>
+
+</br>
+
+<section class="section section__tools">
+    <h3 class="section__title">Languages and Tools:</h3>   
+    <div class="section__tools-wrapper" display = "flex">
+        <a class="section__tools-link" href="https://www.figma.com/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+        </a>  
+         <a class="section__tools-link" href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://www.w3schools.com/css/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://www.javascript.com/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://www.typescriptlang.org/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://reactjs.org/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://sass-scss.ru/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://tailwindcss.com/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://ant.design/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" alt="AntDesign" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://redux.js.org/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://cplusplus.com/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://www.python.org/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://www.swift.org/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://www.mysql.com/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+        </a>  
+        <a class="section__tools-link" href="https://git-scm.com/" target="_blank">
+            <img class="section__tools-img" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+        </a>  
+    </div>
+</section>
+
+</br>
+
+<section class="section section__statistics">
+    <h3 class="section__title">Statistics:</h3> 
+    <div class="section__statstics-wrapper" align="center">
+    <img align="center" alt="ArtemH2004's Github Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artemh2004&theme=github_dark" />
+    <img align="center" alt="ArtemH2004's Github Most Commit Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=artemh2004&theme=github_dark" />
+    <img align="center" alt="ArtemH2004's Github Most Repos Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artemh2004&theme=github_dark" />
+    <img align="center" alt="ArtemH2004's Github Statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artemh2004&theme=github_dark" />
+    <img align="center" alt="ArtemH2004's Github Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=artemh2004&theme=github_dark" />
+    </div>
+    </br>
+    <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=artemh2004&&style=flat-square" align="center" />
+    </div>     
+</section>
+
+</br>
+
+<section class="section section__trophy">
+    <h3 class="section__title">Trophies:</h3> 
+    <div align="center">
+        <img align="center" alt="ArtemH2004's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=artemh2004&theme=onestar" />
+    </div>
+</section>
 
 </body>
-</html>
+
+
+
+
+
 <!--
 **ArtemH2004/ArtemH2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
